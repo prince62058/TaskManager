@@ -1,5 +1,9 @@
 # Task Manager
 
+## Author
+
+Prince Kumar
+
 A full-stack task management application built with Node.js, Express, and MongoDB for the backend, and React, Vite, and Redux for the frontend. It allows users to create, manage, and track tasks with features like user authentication, role-based access, attachments, todo checklists, and progress tracking.
 
 ## Features
